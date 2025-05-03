@@ -60,13 +60,12 @@ Each test case includes:
 - Test Steps  
 - Expected Result  
 - Actual Result  
-- Status (Pass/Fail)
 
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/manual-testing-project.git
+   git clone https://github.com/sireeshamudili/manual-testing-project.git
 Navigate through the Test Plan and Test Cases folders.
 Execute the relevant test cases as per the module or feature under test.
 Document results and report any defects using your team’s bug tracking tool.
@@ -83,5 +82,7 @@ Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -m 'Add new test cases')
 Push to the branch (git push origin feature-branch)
 Open a Pull Request
+
+Contact
 
 Sireesha Mudili
